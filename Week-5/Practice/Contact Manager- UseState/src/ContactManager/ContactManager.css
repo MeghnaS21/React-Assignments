@@ -1,0 +1,13 @@
+.card{
+    /* display: flex; */
+    /* max-height: 200px;
+    max-width: 200px; */
+    margin: 10px 10px 10px 10px;
+    display: inline-block;
+    padding: 50px;
+    margin-left: 30px;
+}
+
+.alignment{
+    text-align: center;
+}
