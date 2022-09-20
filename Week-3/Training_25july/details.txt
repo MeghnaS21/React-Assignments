@@ -1,0 +1,2 @@
+Contact Manager using fake server and javascript 
+along with crud operations
