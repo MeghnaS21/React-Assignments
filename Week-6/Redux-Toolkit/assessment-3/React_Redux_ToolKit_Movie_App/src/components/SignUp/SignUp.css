@@ -1,0 +1,126 @@
+/* body {
+    background-color: rgba(15, 15, 74, 0.94);
+    color: white;
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  
+    
+  } */
+  
+  /* code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+      monospace;
+  }
+   */
+  /* .navBar{
+    --menu-height: 40px;
+      background-color: var(--sb-toolbar-background);
+      color: var(--sb-foreground);
+      display: flex;
+      flex-shrink: 0;
+      height: var(--menu-height);
+      width: 100%;
+      z-index: 100;
+  
+  } */
+  
+  
+  /* .card{
+    background-color: rgb(15, 15, 74);
+    color: rgba(255, 255, 255, 0.626);
+    border-left: 10px;
+    width: 500px;
+    max-height: 250px;
+  
+    display: inline-block;
+    justify-items: stretch;
+    border-radius: 10px;
+    padding: 15px 25px;
+    box-sizing: border-box;
+    cursor:pointer;
+    margin: 10px 15px;
+    transition: 0.5s;
+  } */
+  
+  
+  .margin-control{
+    margin: 30px 0px 0px 40px;
+  }
+    /*
+  .t-color{
+    color: rgba(255, 255, 255, 0.527);
+  } */
+  
+  /*----------------ADD CONTACT------------------*/
+  .headingStyle {
+   color: white;
+    font-size: 2.5rem;
+    /* background-color: black;
+    background: rgba(255,255,255,0.3); */
+    /* color: white; */
+    
+    text-align: center;
+    padding-top: 2.8%;
+  }
+  
+  .signup-form{
+    border-radius: 5px;
+    /* background-color: #f8f8ff33; */
+    color: white;
+    text-align: center;
+    padding: 20px;
+    width: 60%;
+    margin-left: 20%;
+    /* margin-top: 10%; */
+  }
+  
+  input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  input[type=password], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  .formbox{
+    display: inline-block;
+  }
+  
+  /* .searchbox{
+    display: inline-block;
+  } */
+  
+  
+  .btnStyle{
+    /* background-color: black; */
+    background-color: green;
+    color:  white;
+    margin-left: 45%;
+    /* box-shadow: 0 0 11px rgba(3, 155, 250, 0.722); */
+    transition: 0.5s;
+  }
+  
+  .btnStyle:hover{
+    color: white;
+  }
+
+  .Helper-Information{
+    margin-left: 40%;
+    margin-top: 10%;
+    color: grey;
+  }

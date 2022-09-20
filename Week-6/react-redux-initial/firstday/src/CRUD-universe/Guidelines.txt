@@ -1,0 +1,19 @@
+Objective :- CRud application
+
+Requirements :- 
+                             1- Redux toolkit
+                             2- Redux Saga
+                             3- Axios
+                             4- JSON server
+                             5- Material UI
+
+STEPS:-
+
+1- create parent folder -> 2 child folders
+     i) 1-> crud app
+     ii) 2->json server
+
+2- created folders/setup
+3- install dependencies ---> reduxx toolkit, redux saga and axios 
+                npm i react-axios
+                npm install @reduxjs/toolkit

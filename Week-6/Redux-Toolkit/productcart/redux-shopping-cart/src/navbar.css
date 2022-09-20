@@ -1,0 +1,76 @@
+.kkk{
+    padding: 0px;
+    margin: 0px;
+    background-color: grey;
+    float: left;
+}
+
+.kkk1{
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+}
+
+.Logo img{
+    margin-left: 40px;
+}
+
+.bg-own{
+    height: 30.2px !important;
+    float: left;
+    width: 100%;
+    background: black;
+    background-color: #c6003d;
+    display: block;
+}
+
+.bg-ownn{
+    float: left;
+    width: 100%;
+    padding: 0 0 20px 0;
+    margin: 0 auto;
+    background-color: #e40047;
+    padding: 0px 0px 20px;
+    height: 65px;
+    opacity: 1;
+    box-shadow: 0 0 4px rgba(0, 0, 0, 0.2);
+}
+
+.left{
+    float: left;
+    display: block;
+}
+
+.left p{
+    color: white;
+    margin-left: 40px;
+}
+
+.rightt{
+    float: right;
+    text-align: right;
+}
+
+.rightt ul{
+    text-align: right;
+    float: right;
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+    width: 100%;
+    margin-right: 40px;
+}
+
+.rightt li{
+    display: inline-block;
+}
+
+.rightt li a{
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+}
+
+.rightt li a:hover{
+    color: white;
+}
